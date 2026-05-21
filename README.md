@@ -104,13 +104,3 @@ This project presents a Healthcare Clinical Ontology designed to model the struc
 - Annotation properties for ontology documentation
 - Sample individuals for ontology testing and reasoning
 
----
-
-## File Structure
-
-```text
-Healthcare-Clinical-Ontology/
-│
-├── healthcare_clinical_ontology.owl
-├── README.md
-└── screenshots/
